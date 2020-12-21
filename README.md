@@ -3,7 +3,7 @@
 ## Alias: AlphaSe7en
 > I am a Tech Enthusiast & an Open-Source Advocate with a love for Linux, Code, and A.I.
 
-## Technologies & Tools
+## Tools & Technologies 
 
 ![](https://img.shields.io/badge/Linux-OS-informational?style=flat&logo=linux&logoColor=white&color=03a9f4)
 ![](https://img.shields.io/badge/Bash-Shell-informational?style=flat&logo=gnu-bash&logoColor=white&color=03a9f4)
