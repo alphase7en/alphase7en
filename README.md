@@ -1,7 +1,7 @@
 ![A7](https://github.com/alphase7en/alphase7en/blob/main/A7_banner.png)
 
-## AlphaSe7en
-Love of Linux, Code, and A.I.
+## Alias: AlphaSe7en
+> I am a Tech Enthusiast & an Open-Source Advocate with a love for Linux, Code, and A.I.
 
 ## 🔧 Technologies & Tools
 
@@ -22,7 +22,7 @@ Love of Linux, Code, and A.I.
 </a>
 
 <a href="https://github.com/Zhenye-Na/Zhenye-Na">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alphase7en&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=6aa6f8&bg_color=21252b" alt="AlphaSe7en' GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alphase7en&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=6aa6f8&bg_color=21252b" alt="AlphaSe7en's GitHub Stats" />
 </a>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=alphase7en.alphase7en)
