@@ -24,6 +24,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphase7en&hide=c%2B%2B,c,html&title_color=ffffff&text_color=ffffff&icon_color=03a9f4&bg_color=21252b" alt="AlphaSe7en's GitHub Stats" />
 </a>
 
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=alphase7en.alphase7en)
 
 <!--
