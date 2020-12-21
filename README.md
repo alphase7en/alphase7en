@@ -1,6 +1,7 @@
-### Hi there 👋
+![A7](https://github.com/alphase7en/alphase7en/blob/main/A7_banner.png)
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=alphase7en.alphase7en)
+## AlphaSe7en
+Love of Linux, Code, and A.I.
 
 ## 🔧 Technologies & Tools
 
@@ -24,6 +25,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=alphase7en&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="AlphaSe7en' GitHub Stats" />
 </a>
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=alphase7en.alphase7en)
 
 <!--
 **alphase7en/alphase7en** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
