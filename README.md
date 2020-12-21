@@ -3,7 +3,7 @@
 ## Alias: AlphaSe7en
 > I am a Tech Enthusiast & an Open-Source Advocate with a love for Linux, Code, and A.I.
 
-## 🔧 Technologies & Tools
+## Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
@@ -15,7 +15,7 @@
 ![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=6aa6f8)
 
 
-## &#x1f4c8; GitHub Stats
+## GitHub Stats
 
 <a href="https://github.com/Zhenye-Na/Zhenye-Na">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphase7en&hide=c%2B%2B,c,html&title_color=ffffff&text_color=ffffff&icon_color=6aa6f8&bg_color=21252b" alt="AlphaSe7en's GitHub Stats" />
