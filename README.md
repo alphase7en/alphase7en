@@ -16,11 +16,11 @@
 
 ## GitHub Stats
 
-<a href="https://github.com/Zhenye-Na/Zhenye-Na">
+<a href="https://github.com/alphase7en">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphase7en&hide=c%2B%2B,c,html&title_color=ffffff&text_color=ffffff&icon_color=03a9f4&bg_color=21252b" alt="AlphaSe7en's GitHub Stats" />
 </a>
 
-<a href="https://github.com/Zhenye-Na/Zhenye-Na">
+<a href="https://github.com/alphase7en">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=alphase7en&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=03a9f4&bg_color=21252b" alt="AlphaSe7en's GitHub Stats" />
 </a>
 
