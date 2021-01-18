@@ -1,7 +1,7 @@
 ![A7](https://github.com/alphase7en/alphase7en/blob/main/A7_banner.png)
 
 ## Alias: AlphaSe7en
-> I am a Tech Enthusiast & an Open-Source Advocate with a love for Linux, Code, and A.I.
+> I am a Tech Enthusiast & an Open-Source Advocate with a love for Linux, Code, and CyberSecurity.
 
 ## Tools & Technologies 
 
